@@ -5,7 +5,7 @@ using System.Text;
 using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
-namespace Dima.Core.Responses
+namespace Dima.Core.Response
 {
     public class PagedResponse<TData> : Response<TData>
     {
