@@ -3,7 +3,7 @@ using Dima.Core.Enums;
 
 namespace Dima.Core.Requests.Transactions;
 
-public class UpdateTransactionRequest : Request
+public class UpdateTransactionRequest : RequestBase
 {
     public long Id { get; set; }
     

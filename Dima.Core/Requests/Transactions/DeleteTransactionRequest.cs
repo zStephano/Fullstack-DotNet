@@ -1,6 +1,6 @@
 namespace Dima.Core.Requests.Transactions;
 
-public class DeleteTransactionRequest : Request
+public class DeleteTransactionRequest : RequestBase
 {
     public long Id { get; set; }
 }
