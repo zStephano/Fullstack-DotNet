@@ -29,26 +29,22 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/dev/Backend-Projects/CSharp/Fullstack-DotNet/Dima.Web/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+[C:/dev/Backend-Projects/CSharp/Fullstack-DotNet/Dima.Web/Layouts/HeadlessLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0c1xIZWFkbGVzc0xheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev/Backend-Projects/CSharp/Fullstack-DotNet/Dima.Web/Layouts/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0c1xNYWluTGF5b3V0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/dev/Backend-Projects/CSharp/Fullstack-DotNet/Dima.Web/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/dev/Backend-Projects/CSharp/Fullstack-DotNet/Dima.Web/Pages/Weather.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
+[C:/dev/Backend-Projects/CSharp/Fullstack-DotNet/Dima.Web/Pages/Identity/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWRlbnRpdHlcTG9naW4ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/dev/Backend-Projects/CSharp/Fullstack-DotNet/Dima.Web/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
-
-[C:/dev/Backend-Projects/CSharp/Fullstack-DotNet/Dima.Web/Layout/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-tmsno2962o
-
-[C:/dev/Backend-Projects/CSharp/Fullstack-DotNet/Dima.Web/Layout/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-dfys8qpyzo
